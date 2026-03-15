@@ -191,12 +191,7 @@ brazilian-ecommerce-sql-analysis
 ├── datasets
 │
 ├── sql
-│   ├── table_verification.sql
-│   ├── row_counts.sql
-│   ├── schema_inspection.sql
-│   ├── data_preview.sql
-│   ├── duplicate_check.sql
-│   └── null_value_check.sql
+│   ├── brazil_ecommerce_analysis.sql
 │
 └── README.md
 ```
